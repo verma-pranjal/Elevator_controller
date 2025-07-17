@@ -9,6 +9,8 @@ This project implements a simple **4-floor elevator controller** using Verilog H
 - `README.md` — Project documentation.
 
 ---
+<img width="1564" height="868" alt="image" src="https://github.com/user-attachments/assets/607ad814-9cb4-4adf-9fcf-922518fc98f1" />
+
 
 ## ⚙️ Module Description
 
