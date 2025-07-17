@@ -51,7 +51,7 @@ To simulate the project, use any Verilog simulator (e.g., ModelSim, Icarus Veril
 
 
 
-## this project is made by **Pranjal Verma**
+## This Project is made by **Pranjal Verma**
 
 
 ### Steps using Icarus Verilog:
