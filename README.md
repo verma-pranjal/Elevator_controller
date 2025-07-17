@@ -50,6 +50,10 @@ To simulate the project, use any Verilog simulator (e.g., ModelSim, Icarus Veril
 <img width="1907" height="950" alt="image" src="https://github.com/user-attachments/assets/4da6287e-1b6c-4892-89a9-002935d4cc18" />
 
 
+
+## this project is made by **Pranjal Verma**
+
+
 ### Steps using Icarus Verilog:
 
 ```bash
@@ -59,4 +63,4 @@ iverilog -o elevator_sim Elevator_controller.v Elevator_controller_tb.v
 # Run the simulation
 vvp elevator_sim
 
-## this project is made by **Pranjal Verma**
+
