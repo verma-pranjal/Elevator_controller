@@ -45,6 +45,9 @@ This project implements a simple **4-floor elevator controller** using Verilog H
 
 To simulate the project, use any Verilog simulator (e.g., ModelSim, Icarus Verilog).
 
+<img width="1907" height="950" alt="image" src="https://github.com/user-attachments/assets/4da6287e-1b6c-4892-89a9-002935d4cc18" />
+
+
 ### Steps using Icarus Verilog:
 
 ```bash
